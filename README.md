@@ -24,17 +24,17 @@
 ## 📸 التوثيق المرئي للمخرجات (System Screenshots)
 
 ### 01. نقطة الدخول (Entry Point - Welcome)
-![Welcome Screen](screen1.png)
+![Welcome Screen](screenshots/screen1.png)
 > **Technical Note:** واجهة ترحيبية مصممة باستخدام `Column` و `ElevatedButton` مع التركيز على الـ Visual Hierarchy للهوية البصرية.
 
 ### 02. واجهة الدخول وفحص البيانات (Core Authentication)
-![Login Screen](screen2.png)
-![Validation Test](screen3.png)
+![Login Screen](screenshots/screen2.png)
+![Validation Test](screenshots/screen3.png)
 > **Technical Note:** استخدام `GlobalKey<FormState>` للتحقق من صحة البيانات (Validators) قبل السماح بعملية تسجيل الدخول.
 
 ### 03. تسجيل الحساب واستجابة النظام (Action Confirmation)
-![Sign Up Screen](screen4.png)
-![Success Action](screen5.png)
+![Sign Up Screen](screenshots/screen4.png)
+![Success Action](screenshots/screen5.png)
 > **Technical Note:** توضيح لآلية عمل الـ `SnackBar` البرمجية التي تظهر كرسالة تأكيد ذهبية فور نجاح التحقق من البيانات المسجلة.
 
 ---
